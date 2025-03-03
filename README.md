@@ -1,4 +1,6 @@
-turns photos into a dot pattern
+turns photos into a dot pattern.
+
+currently used on my site 
 
 before:
 <img src="photo.png" alt="before" width="50%">
