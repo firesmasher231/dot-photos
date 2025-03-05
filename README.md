@@ -1,4 +1,6 @@
-turns photos into a dot pattern
+turns photos into a dot pattern.
+
+currently used on my site 
 
 webcam_stream does this live for your webcam, looks kinda cool 
 
